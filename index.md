@@ -6,33 +6,18 @@
 
 ### 工作坊目标
 
-```markdown
-Syntax highlighted code block
+本工作坊希望可以汇聚来自不同专业背景的参与者，通过共同探索、研究以下问题，来探索障碍人士在音乐感知、表演、创作中的创造性方法，并以小组形式进行设计实践。
 
-# 如何帮助障碍人士更好地聆听、感知和理解音乐？
-# 如何帮助障碍人士在音乐的表演和创作中建立表达自我的方式？ 
-# 如何通过共创性的活动来设计创新音乐装置，并与障碍人士共同完成一场音乐活动？
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+#### · 如何帮助障碍人士更好地聆听、感知和理解音乐？
+#### · 如何帮助障碍人士在音乐的表演和创作中建立表达自我的方式？ 
+#### · 如何通过共创性的活动来设计创新音乐装置，并与障碍人士共同完成一场音乐活动？
 
 
 ### 日程安排
 
 ![日程安排](https://user-images.githubusercontent.com/108637794/177085041-6e932a2b-fa78-4fb8-bc08-172ac42b923b.jpg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/accessibleMusic/accessibleMusic.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
 ### 学术导师
 
@@ -43,6 +28,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### 企业顾问
 
 ![640](https://user-images.githubusercontent.com/108637794/177085423-3e84af91-346d-4492-b56f-b67d7c7d10e1.jpg)
-
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
