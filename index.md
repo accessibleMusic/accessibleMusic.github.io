@@ -27,6 +27,7 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![640](https://user-images.githubusercontent.com/108637794/177080018-a6e4f8c8-d4b5-452f-bb99-0841638afb53.jpg)
 
 ### Jekyll Themes
 
