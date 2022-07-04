@@ -4,7 +4,7 @@
 
 组织者和导师来自清华大学未来实验室、中央音乐学院、北航机械学院工业设计系、北邮数字媒体与设计艺术学院、AI Creativity国际联合实验室、伦敦玛丽女王大学QMUL、麦吉尔大学McGill。由CCF计算艺术分会、CAAI艺术与人工智能专委会支持。
 
-### 工作坊目标
+### 01 工作坊目标
 
 本工作坊希望可以汇聚来自不同专业背景的参与者，通过共同探索、研究以下问题，来探索障碍人士在音乐感知、表演、创作中的创造性方法，并以小组形式进行设计实践。
 
@@ -13,18 +13,18 @@
 #### · 如何通过共创性的活动来设计创新音乐装置，并与障碍人士共同完成一场音乐活动？
 
 
-### 日程安排
+### 02 日程安排
 
 ![日程安排](https://user-images.githubusercontent.com/108637794/177085041-6e932a2b-fa78-4fb8-bc08-172ac42b923b.jpg)
 
 
 
-### 学术导师
+### 03 学术导师
 
 ![640](https://user-images.githubusercontent.com/108637794/177080018-a6e4f8c8-d4b5-452f-bb99-0841638afb53.jpg)
 ![640](https://user-images.githubusercontent.com/108637794/177085382-b5b66ec7-c62a-4374-906a-1d71a90401e0.jpg)
 ![640](https://user-images.githubusercontent.com/108637794/177085397-ce7e9fec-b386-4ac6-b690-4c39a148efc7.jpg)
 
-### 企业顾问
+### 04 企业顾问
 
 ![640](https://user-images.githubusercontent.com/108637794/177085423-3e84af91-346d-4492-b56f-b67d7c7d10e1.jpg)
