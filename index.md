@@ -37,5 +37,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### 学术导师
 
 ![640](https://user-images.githubusercontent.com/108637794/177080018-a6e4f8c8-d4b5-452f-bb99-0841638afb53.jpg)
+![640](https://user-images.githubusercontent.com/108637794/177085382-b5b66ec7-c62a-4374-906a-1d71a90401e0.jpg)
+![640](https://user-images.githubusercontent.com/108637794/177085397-ce7e9fec-b386-4ac6-b690-4c39a148efc7.jpg)
+
+### 企业顾问
+
+![640](https://user-images.githubusercontent.com/108637794/177085423-3e84af91-346d-4492-b56f-b67d7c7d10e1.jpg)
+
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
